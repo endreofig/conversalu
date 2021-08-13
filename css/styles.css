@@ -463,7 +463,7 @@ a:hover {
 /*     Header     */
 /******************/
 .header {
-	padding-top: 8rem;
+	padding-top: 0.1rem;
 	padding-bottom: 4em;
 	background: url('../images/header-background.jpg') center center no-repeat;
 	background-size: cover;
@@ -475,11 +475,11 @@ a:hover {
 }
 
 .header .p-large {
-	margin-bottom: 2.25rem;
+	margin-bottom: 1.25rem;
 }
 
 .header .image-container {
-	margin-top: 5rem;
+	margin-top: 1rem;
 }
 
 
@@ -1021,8 +1021,8 @@ a:hover {
 
 	/* Header */
 	.header {
-		padding-top: 9rem;
-		padding-bottom: 5em;
+		padding-top: 1rem;
+		padding-bottom: 1em;
 	}
 
 	.header .h1-large {
@@ -1135,7 +1135,7 @@ a:hover {
 	}
 
 	.header .text-container {
-		margin-top: 4rem;
+		margin-top: 1rem;
 	}
 
 	.header .image-container {
@@ -1275,7 +1275,7 @@ a:hover {
 	/* Header */
 	.header {
 		overflow: hidden;
-		padding-top: 20.25rem;
+		padding-top: 8 rem;
 		padding-bottom: 15rem;
 	}
 
