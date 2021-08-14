@@ -188,7 +188,7 @@ a:hover {
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
-	line-height: 0;
+	line-height: 1;
 	text-decoration: none;
 	transition: all 0.2s;
 }
@@ -1157,7 +1157,7 @@ a:hover {
 	/* Services */
 	.cards-1 .card {
 		display: inline-block;
-		width: 286px;
+		width: 20%;
 		vertical-align: top;
 	}
 	
@@ -1298,7 +1298,7 @@ a:hover {
 
 	/* Services */
 	.cards-1 .card {
-		width: 310px;
+		width: 20%;
 	}
 	
 	.cards-1 .card:nth-of-type(3n+2) {
